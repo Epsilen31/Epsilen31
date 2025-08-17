@@ -1,33 +1,90 @@
-<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">An enthusiastic software engineer from India with a passion for creating impactful solutions.</h3>
+<!-- Hero -->
+<h1 align="center">
+  <b>Hey, I'm <span style="background:linear-gradient(90deg,#60a5fa,#a78bfa,#f59e0b);-webkit-background-clip:text;background-clip:text;color:transparent;">Abhishek Mishra</span> 👋</b>
+</h1>
+<h3 align="center">
+  Full-Stack & AI Engineer · MERN · RAG · Agents · Cloud
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif">
-
-<p align="left"> <a href="https://twitter.com/epsilen31" target="blank"><img src="https://img.shields.io/twitter/follow/epsilen31?logo=twitter&style=for-the-badge" alt="epsilen31" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://epsilen-portfolio.netlify.app/](https://epsilen-portfolio.netlify.app/)
-
-- 📫 How to reach me **mishraabhishek20725@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bL-yYHzj4A88rqRPiBrXm2OvEC3M1Cen/view?usp=drivesdk](https://drive.google.com/file/d/1bL-yYHzj4A88rqRPiBrXm2OvEC3M1Cen/view?usp=drivesdk)
-
-- ⚡ Fun fact **Tech Enthusiast by Day, Cricket Fan by Night!😎😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/epsilen31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epsilen31" height="30" width="40"  /></a>
-<a href="https://linkedin.com/in/abhishek31mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek31mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abhishekmishra__31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishekmishra__31/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mishraabhishek20725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mishraabhishek20725" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/epsilen_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="epsilen_31" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhishek3102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishek3102" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=I+ship+clean+UX+and+scalable+backends;RAG+%2B+Agents+%2B+Vector+DBs+%F0%9F%A4%96;Open+to+collabs+and+opportunities">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=I+ship+clean+UX+and+scalable+backends;RAG+%2B+Agents+%2B+Vector+DBs+%F0%9F%A4%96;Open+to+collabs+and+opportunities" alt="typing intro" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"  width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://epsilen-portfolio.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=safari&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/abhishek31mishra">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abhishek31mishra-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/epsilen31">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/Twitter-@epsilen31-111111?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="mailto:mishraabhishek20725@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-mishraabhishek20725%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/1bL-yYHzj4A88rqRPiBrXm2OvEC3M1Cen/view?usp=drivesdk">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-8b5cf6?style=for-the-badge&logo=readme&logoColor=white">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epsilen31&show_icons=true&locale=en&layout=compact" alt="epsilen31" /></p>
+<p align="right">
+  <img alt="coding gif" width="380" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epsilen31&show_icons=true&locale=en" alt="epsilen31" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epsilen31&" alt="epsilen31" /></p>
+### 🧭 About
+I build **immersive web apps** with **clean architecture** and ship **AI-powered features** that actually work in production. My focus is on **RAG systems, Tool-use/Agentic workflows,** and **developer-friendly UX**.
+
+---
+
+### 🧠 AI / LLM Focus
+- **RAG pipelines** end-to-end: chunking, hybrid retrieval, reranking, caching  
+- **Agentic systems**: tool calling, multi-step planners, evaluation harnesses  
+- **Vector stores**: Pinecone · Weaviate · pgvector · Chroma  
+- **Frameworks**: LangChain · LlamaIndex · OpenAI Assistants · LiteLLM  
+- **Models**: OpenAI (GPT) · Claude · Gemini · Local (Ollama)  
+- **Serving**: FastAPI/Express APIs · Webhooks · Background workers  
+- **Obs/LLMOps**: prompt/version tracking, eval datasets, telemetry
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** TypeScript · JavaScript · C/C++ · Python  
+**Frontend:** React · Next.js · TailwindCSS · ShadCN UI · Framer Motion  
+**Backend:** Node.js · Express · FastAPI · REST · WebSockets  
+**Databases:** MongoDB · PostgreSQL · MySQL · Redis · Firebase  
+**Cloud & Tools:** Vercel · Render · Netlify · Docker · Git/GitHub · Postman  
+**Extras:** Chart.js · Redux · Zustand · Zod · JWT · OAuth
+
+---
+
+### 🚀 Featured
+- 🧩 **Portfolio** – all projects & case studies → **https://epsilen-portfolio.netlify.app/**  
+- 📄 **Resume** – experience snapshot → [view](https://drive.google.com/file/d/1bL-yYHzj4A88rqRPiBrXm2OvEC3M1Cen/view?usp=drivesdk)
+
+---
+
+### 📊 GitHub at a Glance
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=epsilen31&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epsilen31&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+<p>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=epsilen31&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🤝 Connect
+- 🐦 Twitter/X: **[@epsilen31](https://twitter.com/epsilen31)**  
+- 💼 LinkedIn: **[/in/abhishek31mishra](https://linkedin.com/in/abhishek31mishra)**  
+- 📸 Instagram: **[@abhishekmishra__31](https://www.instagram.com/abhishekmishra__31/)**  
+- ✉️ Email: **mishraabhishek20725@gmail.com**
+
+> ⚡ **Fun fact:** Tech enthusiast by day, cricket fan by night! 😎🏏
